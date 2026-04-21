@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.10.14",
+    "heartbeatAt": "2025-01-26T13:44:02.763407",
+    "startedAt": "2025-01-26T13:44:00.797053",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:\\lrz\\PromptIR-main\\train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "host": "DESKTOP-IUR6M3F",
+    "username": "andong",
+    "executable": "D:\\Anaconda\\envs\\tfh\\python.exe",
+    "cpu_count": 16,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3400.0,
+        "min": 0.0,
+        "max": 3400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3400.0,
+            "min": 0.0,
+            "max": 3400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 199.99901962280273,
+            "used": 159.5092544555664
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Ti",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 63.74696350097656
+    }
+}
