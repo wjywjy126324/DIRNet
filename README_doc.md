@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements **DIRNet**, a prompt-learning-guided all-in-one image restoration network introduced in the paper *"Prompt Learning-Driven Unified Image Restoration for Industrial Silicon Nitride Ceramic Ball Surface Inspection"* (published in Journal of Intelligent Manufacturing, 2026). The model is built upon the PromptIR framework and introduces a **Hybrid Attention Mechanism based on Visual Prompts (HAM-VP)** and a **Lightweight Transformer Module** to explicitly decouple degradation responses from structural semantics, enabling unified restoration of multiple degradation types (low-brightness, blur, noise) in a single model.
+This project implements **DIRNet**, a prompt-learning-guided all-in-one image restoration network introduced in the paper *"Prompt Learning-Driven Unified Image Restoration for Industrial Silicon Nitride Ceramic Ball Surface Inspection"* . The model is built upon the PromptIR framework and introduces a **Hybrid Attention Mechanism based on Visual Prompts (HAM-VP)** and a **Lightweight Transformer Module** to explicitly decouple degradation responses from structural semantics, enabling unified restoration of multiple degradation types (low-brightness, blur, noise) in a single model.
 
 ---
 
